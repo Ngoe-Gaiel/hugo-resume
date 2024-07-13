@@ -1,4 +1,4 @@
-name = "Sada"
+name = "gaiel"
 license = "MIT"
 licenselink = "https://github.com/darshanbaral/sada/blob/master/LICENSE"
 description = "Simple theme for resume created using Tailwind CSS"
@@ -9,5 +9,5 @@ features = ["responsive", "tailwindcss"]
 min_version = "0.121.1"
 
 [author]
-  name = "Darshan Baral"
+  name = "ngoe gaiel"
   homepage = "https://www.darshanbaral.com/"
